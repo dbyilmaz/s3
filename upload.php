@@ -1,4 +1,5 @@
 <?php
+/*<script src="https://use.fontawesome.com/6892e344e3.js"></script>*/
 use Aws\S3\Exception\S3Exception;
 require 'app/start.php';
 if (isset($_FILES['file'])) {
