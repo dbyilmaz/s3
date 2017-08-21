@@ -1,3 +1,2 @@
 # s3
-s3
-<script src="https://use.fontawesome.com/6892e344e3.js"></script>
+Aws S3'e php ile dosya yüklemek.
